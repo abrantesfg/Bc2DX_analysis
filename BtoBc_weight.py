@@ -262,4 +262,3 @@ for v in vars_list_ratio:
     plt.ylim(bottom=0)
     plt.savefig('reweighted_plots/%s.pdf' %v)
     plt.close()
-
